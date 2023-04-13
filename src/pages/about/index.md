@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
 title: About
-heading: About us
-subheading: Our values, mission and culture
+heading: Neško Nešić
+subheading: Naše vrednosti, mission and culture
 team:
   - name: Courtney Henry
     image: /img/joanna-nix-walkup-p7zgmc33s0u-unsplash.jpg
@@ -16,6 +16,9 @@ team:
   - name: Dries Vincent
     title: Manager, Business Relations
     image: /img/bruce-mars-8yg31xn4dsw-unsplash-1-.jpg
+  - name: Neško Nešić
+    title: Prepisivač-dijak
+    image: https://scontent.fbeg2-1.fna.fbcdn.net/v/t39.30808-1/284192076_104707292261060_2533534205543315570_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_ohc=YTjFJ58Y1ZsAX90EAiU&_nc_ht=scontent.fbeg2-1.fna&oh=00_AfBvuVkrBaN2Ygo293tGtK1xqL5yc9MU33wlxPZLNbh6iw&oe=643D9CD1
 ---
 ### Reconnect people with nature
 
